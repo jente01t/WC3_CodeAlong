@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    background-color: black;
+
+}
+
+.nav ul {
+    background-color: lime;
+    padding: 0;
+}
+
+nav li {
+    /*background-color: orange;*/
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.nav a {
+    background-color: pink;
+    display: block;
+    padding: 1em;
+}
